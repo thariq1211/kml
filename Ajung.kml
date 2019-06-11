@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ajung</name>
+	<Placemark id="03B926CBC60C7CADB5EB">
+		<name>Ajung</name>
+		<gx:mid>/g/11c0q0gpb9</gx:mid>
+		<gx:fid>0x2dd690cbc0f00ea9:0xf70daa405ed05f6e</gx:fid>
+		<LookAt>
+			<longitude>113.66347345</longitude>
+			<latitude>-8.242081499999999</latitude>
+			<altitude>64.03639206706032</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>23006.89995638015</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>file://earth/13985509345605094587#__managed_style_09CE21D53C0C7CAB117F</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>113.6561725,-8.2359916,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
